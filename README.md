@@ -7,7 +7,7 @@
 
 |Paper|Description|published year|
 |-----|-------|-----|
-|object detection| paper on Laplace Propagation|2013|
+|(object detection)[https://github.com/vasanthgx/review1]| Paper on Laplace Propagation|2013|
 |Label Smoothing| paper on effect of Label Smoothing on Knowledge Distillation | 2020|
 
 
